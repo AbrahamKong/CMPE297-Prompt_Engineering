@@ -2,7 +2,7 @@ Note: you can make full use of gpt4 coding abilities and chatgpt for these assig
 
  
 
-a) Use chatgpt to write an medium.com article on best practices for writing prompts.
+a) Use chatgpt to write a medium.com article on best practices for writing prompts.
 
 apply this best practices in your custom domain for a full example. 
 
@@ -55,7 +55,7 @@ https://chat.openai.com/share/69140dcc-9306-40d5-b7b2-93754475616e
 
 the above dialog in chatgpt is an example that you can use as a test case for your full app back and forth.
 
-c) Write a full web app for prompt library with prompt search (use pinecone langchain library) - people can contribute the prompts nad search for prompts
+c) Write a full web app for prompt library with prompt search (use pinecone langchain library) - people can contribute the prompts and search for prompts
 
  
 
