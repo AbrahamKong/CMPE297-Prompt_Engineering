@@ -18,7 +18,10 @@ that makes user's input prompt better
 Medium article
 [Building Your AI-Enhanced Prompt Interface: A Step-by-Step Guide to Streamlit and GPT-4 Integration](https://medium.com/@abraham.jkong/building-your-ai-enhanced-prompt-interface-a-step-by-step-guide-to-streamlit-and-gpt-4-integration-cc739f7ad55c)
 
+Part B Showcase Video
+[Youtube Video](https://youtu.be/UTNaCGZ0uV0)
 
-[Youtube Video]()
+
+[Prompts gathered for above article]()
 
 # Part C
