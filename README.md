@@ -7,8 +7,6 @@ Medium article:
 [Top 15 Prompt Engineering Techniques You Have to Know](https://medium.com/@abraham.jkong/top-15-prompt-engineering-techniques-you-have-to-know-53531c43fa32)
 
 
-[Prompts gathered for above article]()
-
 # Part B
 
 Use the help of Chat GPT 4 to write a streamlit web application 
@@ -21,7 +19,5 @@ Medium article
 Part B Showcase Video
 [Youtube Video](https://youtu.be/UTNaCGZ0uV0)
 
-
-[Prompts gathered for above article]()
 
 # Part C
