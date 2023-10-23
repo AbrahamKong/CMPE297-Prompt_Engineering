@@ -21,3 +21,6 @@ Part B Showcase Video
 
 
 # Part C
+
+reference:
+[link](https://github.com/rapidkomal/langchain-pincone-openai/blob/main/langchain-pincone-openai.ipynb)
