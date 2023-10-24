@@ -22,5 +22,17 @@ Part B Showcase Video
 
 # Part C
 
+With the help of ChatGPT 4, create an Node JS website to store and search prompts
+
+Use the below code to run on local laptop
+```
+npm install next react react-dom
+npm run dev
+```
+
 reference:
 [link](https://github.com/rapidkomal/langchain-pincone-openai/blob/main/langchain-pincone-openai.ipynb)
+
+[link](https://github.com/abganzon/pinecone_search_vector_data_prompt_to_openai/tree/main)
+
+[link](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt/tree/main)

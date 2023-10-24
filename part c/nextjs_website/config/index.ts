@@ -1,0 +1,1 @@
+export const indexName = 'sample-index';  // Placeholder index name
