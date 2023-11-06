@@ -3,7 +3,7 @@ import streamlit as st
 import openai
 
 # Configure OpenAI API key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 openai.api_key = OPENAI_API_KEY
 
 
@@ -47,3 +47,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# example prompt:
+# create a prompt that will help me write a blog post about the best way to travel to Europe.
+# The tone should be friendly and the target market is millennials.
+# The niche is eco-friendly travel gear.
+# The product name is EcoTraveller Backpack.
+# The style is Ernest Hemingway.
+# The product is made of 100% recycled materials.
